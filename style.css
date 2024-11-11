@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    
+  }
+  
+  header {
+    background: url(./Images/portfolio.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+  }
+  
+  h1 {
+    font-size: 3rem;
+  }
+  
+  #about {
+    text-align: center;
+  }
+  
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
